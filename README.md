@@ -1,1 +1,1 @@
-# Repositiry for Python
+# Repository for Python
